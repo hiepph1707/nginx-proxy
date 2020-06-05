@@ -1,2 +1,2 @@
 # nginx-proxy
-Nginx Proxy Config 
+Nginx Proxy Config with Modsec v3
